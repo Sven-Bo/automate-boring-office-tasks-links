@@ -4,8 +4,6 @@ Learn how to use ChatGPT and Python to automate tasks such as distributing Excel
 ## Live website to showcase ChatGPT automation potential
 ttps://automate-office-chatgpt.streamlit.app/
 
-
-
 ## More Solutions
 Explore my tools and templates for Excel, automation, and more.
 
@@ -20,6 +18,3 @@ Love my content and want to show appreciation? Why not [buy me a coffee](https:/
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://pythonandvba.com/coffee-donation)
 
-## Feedback
-Got some thoughts or suggestions? Don't hesitate to reach out to me at contact@pythonandvba.com. I'd love to hear from you! 💡
-![Logo](https://www.pythonandvba.com/banner-img)
